@@ -3,9 +3,4 @@
 - 🌱 Estou aprendendo sobre política 
 - 💞️ Estou querendo colaborar para a informação e o aprendizado 
 - 📫 fernanda.anacleto.oliveira@escola.pr.gov.br
-- 
-
-<!---
-FernandaCatharine/FernandaCatharine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9?si=PyXPRUx2SUiFqUd1R-G6Nw
